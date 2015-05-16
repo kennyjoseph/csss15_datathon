@@ -13,4 +13,4 @@ What we did
 Note to play with the data you'll have to do the following:
 
 1. untar the file ```data.tgz```
-2. If you want the 311 data, its at ```https://dl.dropboxusercontent.com/u/53207718/311.tgz```
+2. If you want the 311 data, its at https://dl.dropboxusercontent.com/u/53207718/311.tgz
